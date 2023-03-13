@@ -9,6 +9,7 @@ class UserListView extends StatelessWidget {
       shrinkWrap: true,
       physics: const NeverScrollableScrollPhysics(),
       children: <Widget>[
+        //
         ListTile(
           leading: const CircleAvatar(
             backgroundColor: Color(0xffDB4DDB),
